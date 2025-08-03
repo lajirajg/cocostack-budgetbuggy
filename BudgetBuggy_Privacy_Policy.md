@@ -1,11 +1,11 @@
-# BudgetBuggy Privacy Policy
+# Coco Budgety Privacy Policy
 
 **Effective Date:** January 2025  
 **Last Updated:** January 2025
 
 ## Overview
 
-BudgetBuggy is a personal finance app designed to help you track expenses and manage your budget through receipt scanning and manual entry. Your privacy is important to us, and this policy explains how we handle your information.
+Coco Budgety is a personal finance app designed to help you track expenses and manage your budget through receipt scanning and manual entry. Your privacy is important to us, and this policy explains how we handle your information.
 
 ## Information We Collect
 
@@ -79,7 +79,7 @@ We do not request or use any other device permissions.
 
 ## Children's Privacy
 
-BudgetBuggy is not intended for use by children under 13 years of age. We do not knowingly collect personal information from children under 13.
+Coco Budgety is not intended for use by children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 
@@ -87,7 +87,7 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 ## Contact Information
 
-If you have questions about this privacy policy or BudgetBuggy:
+If you have questions about this privacy policy or Coco Budgety:
 
 **Email**: s.lajiraj@gmail.com 
 **Website**: https://github.com/lajirajg/cocostack-budgetbuggy
@@ -110,4 +110,4 @@ Any third-party libraries used in the app do not collect or transmit user data. 
 
 ---
 
-**Summary**: BudgetBuggy is designed with privacy first. Your financial data stays on your device, under your control, with no external sharing or cloud storage.
+**Summary**: Coco Budgety is designed with privacy first. Your financial data stays on your device, under your control, with no external sharing or cloud storage.
